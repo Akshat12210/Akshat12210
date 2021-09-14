@@ -18,8 +18,8 @@
 <div align="center">
 
 ## 📫 How to reach me: ...
-[<img  alt="Akshat Modani | LinkedIn" width="22px" src="linkedin.svg" />][linkedin]
-[<img  alt="akshatmodani@gmail.com | Mail" width="22px" src="gmail.svg" />][mail]
+[<img  alt="Akshat Modani | LinkedIn" width="22px" src="linkedin.svg" />][linkedin]&nbsp;&nbsp;
+[<img  alt="akshatmodani@gmail.com | Mail" width="22px" src="gmail.svg" />][mail]&nbsp;&nbsp;
 [<img  alt="Akshat Modani | Instagram" width="22px" src="instagram.svg" />][instagram]
 
   
