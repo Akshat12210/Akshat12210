@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 , I am Akshat Modani
 
+### I'm a Computer Science & Engineering Student👨‍🎓 and an aspiring Developer.
+
+
+- 🌱 I’m currently learning ...
+<img alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />&nbsp;
 <!--
 **Akshat12210/Akshat12210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
