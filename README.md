@@ -1,4 +1,4 @@
-### Hello 👋 , I am Akshat Modani
+<h1 align="center">Hello 👋 , I am Akshat Modani</h1>
 
 ### I'm a Computer Science & Engineering Student👨‍🎓 and an aspiring Developer.
 
