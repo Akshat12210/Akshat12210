@@ -17,7 +17,7 @@
 ## 📫 How to reach me: ...
 [<img  alt="Akshat Modani | LinkedIn" width="22px" src="linkedin.svg" />][linkedin]
 [<img  alt="akshatmodani@gmail.com | Mail" width="22px" src="gmail.svg" />][mail]
-[<img  alt="Akshat Modani | Instagram" width="22px" src="instagram.svg" />][instagram]
+<img  alt="Akshat Modani | Instagram" width="22px" src="instagram.svg" />[instagram]
 
 <!-- Syntax Links -->
 
@@ -25,6 +25,7 @@
 [github]: https://github.com/Akshat12210/
 [github-repo]: https://github.com/akshat12210?tab=repositories
 [linkedin]: https://www.linkedin.com/in/akshat-modani-0764201b1
+[instagram]:https://www.instagram.com/akshat_modani/
 <!--
 **Akshat12210/Akshat12210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
