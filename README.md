@@ -4,8 +4,9 @@
 
 
 ## Tools & Technologies 🏽‍💻 I have used
-
+<div>
 1. React<img alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />&nbsp;
+</div>
 2. Bootstrap<img alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>&nbsp;
 3. Java<img alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />&nbsp;
 4. Python<img alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />&nbsp;
