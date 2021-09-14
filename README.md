@@ -15,9 +15,9 @@
 8. GitHub
 
 - 📫 How to reach me: ...
-- [<img  alt="Akshat Modani | LinkedIn" width="22px" src="instagram.svg" />][linkedin]&nbsp;&nbsp;&nbsp;
-- [<img  alt="akshatmodani@gmail.com | Mail" width="22px" src="" />][mail]&nbsp;&nbsp;&nbsp;
-- [<img  alt="Akshat Modani | Instagram" width="22px" src="" />][instagram]&nbsp;&nbsp;&nbsp;
+- [<img  alt="Akshat Modani | LinkedIn" width="22px" src="linkedin.svg" />][linkedin]&nbsp;&nbsp;&nbsp;
+- [<img  alt="akshatmodani@gmail.com | Mail" width="22px" src="gmail.svg" />][mail]&nbsp;&nbsp;&nbsp;
+- [<img  alt="Akshat Modani | Instagram" width="22px" src="instagram.svg" />][instagram]&nbsp;&nbsp;&nbsp;
 
 <!-- Syntax Links -->
 
