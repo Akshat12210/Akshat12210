@@ -1,3 +1,36 @@
+<h1 align="center">Hello 👋, I'm Akshat Modani</h1>
+<h3 align="center">Computer Science & Engineering Student👨‍🎓 and an aspiring Developer</h3>
+<img  alt="Coding" src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif">
+- 🔭 I’m currently working on **Instagram Clone**
+
+- 🌱 I’m currently learning **ReactJS**
+
+- 📫 How to reach me **akshatmodani@gmail.com**
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+[<img  alt="Akshat Modani | LinkedIn" width="30px" height="30px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1653130875~hmac=50b1f4a219524d396a42b4cfe785bd52" />][linkedin]&nbsp;&nbsp;[<img  alt="akshatmodani@gmail.com | Mail" width="30px" height="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][mail]&nbsp;&nbsp;[<img  alt="Akshat Modani | Instagram" width="30px" height="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat12210&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Akshat Modani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat12210&show_icons=true&locale=en&theme=tokyonight" alt="Akshat Modani" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat12210&&theme=tokyonight" alt="Akshat Modani" /></p>
+
+
+[mail]: mailto:akshatmodani@gmail.com
+[github]: https://github.com/Akshat12210/
+[github-repo]: https://github.com/akshat12210?tab=repositories
+[linkedin]: https://www.linkedin.com/in/akshat-modani-0764201b1
+[instagram]:https://www.instagram.com/akshat_modani/
+
+<!--
 <h1 align="center">Hello 👋 , I am Akshat Modani</h1>
 
 ### I'm a Computer Science & Engineering Student👨‍🎓 and an aspiring Developer.
@@ -32,6 +65,7 @@
 [github-repo]: https://github.com/akshat12210?tab=repositories
 [linkedin]: https://www.linkedin.com/in/akshat-modani-0764201b1
 [instagram]:https://www.instagram.com/akshat_modani/
+-->
 <!--
 **Akshat12210/Akshat12210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
