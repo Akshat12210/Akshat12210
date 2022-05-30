@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Akshat Modani</h1>
 <h3 align="center">Computer Science & Engineering Student👨‍🎓 and an aspiring Developer</h3>
-<img  alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif">
+<img  alt="Coding" width=100% src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif">
 <!-- - 🔭 I’m currently working on **Instagram Clone** -->
 
 - 🌱 I’m currently learning **ReactJS**
