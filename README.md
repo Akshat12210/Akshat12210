@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Akshat Modani</h1>
 <h3 align="center">Computer Science & Engineering Student👨‍🎓 and an aspiring Developer</h3>
 <img  alt="Coding" src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif">
-- 🔭 I’m currently working on **Instagram Clone**
+<!-- - 🔭 I’m currently working on **Instagram Clone** -->
 
 - 🌱 I’m currently learning **ReactJS**
 
@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-[<img  alt="Akshat Modani | LinkedIn" width="30px" height="30px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1653130875~hmac=50b1f4a219524d396a42b4cfe785bd52" />][linkedin]&nbsp;&nbsp;[<img  alt="akshatmodani@gmail.com | Mail" width="30px" height="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][mail]&nbsp;&nbsp;[<img  alt="Akshat Modani | Instagram" width="30px" height="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
+[<img  alt="Akshat Modani | LinkedIn" width="30px" height="30px" src="linkedin.svg" />][linkedin]&nbsp;&nbsp;[<img  alt="akshatmodani@gmail.com | Mail" width="30px" height="30px" src="gmail.svg" />][mail]&nbsp;&nbsp;[<img  alt="Akshat Modani | Instagram" width="30px" height="30px" src="instagram.svg" />][instagram]
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
