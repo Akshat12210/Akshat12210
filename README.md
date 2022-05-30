@@ -9,7 +9,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-[<img  alt="Akshat Modani | LinkedIn" width="30px" height="30px" src="linkedin.svg" />][linkedin]&nbsp;&nbsp;[<img  alt="akshatmodani@gmail.com | Mail" width="30px" height="30px" src="gmail.svg" />][mail]&nbsp;&nbsp;[<img  alt="Akshat Modani | Instagram" width="30px" height="30px" src="instagram.svg" />][instagram]
+  <a href="https://www.linkedin.com/in/akshat-modani-0764201b1"><img  alt="Akshat Modani | LinkedIn" width="30px" height="30px" src="linkedin.svg" /></a>&nbsp;&nbsp;<a href="mailto:akshatmodani@gmail.com"><img  alt="akshatmodani@gmail.com | Mail" width="30px" height="30px" src="gmail.svg" /></a>&nbsp;&nbsp; <a href="https://www.instagram.com/akshat_modani/"><img  alt="Akshat Modani | Instagram" width="30px" height="30px" src="instagram.svg" /></a>
+  
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,12 +62,7 @@
 
 <!-- Syntax Links -->
 
-[mail]: mailto:akshatmodani@gmail.com
-[github]: https://github.com/Akshat12210/
-[github-repo]: https://github.com/akshat12210?tab=repositories
-[linkedin]: https://www.linkedin.com/in/akshat-modani-0764201b1
-[instagram]:https://www.instagram.com/akshat_modani/
--->
+
 <!--
 **Akshat12210/Akshat12210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
